@@ -2,7 +2,7 @@
   "name": "starwars-names",
   "version": "0.0.1",
   "description": "this is a repo to practice everithing learned in 'How to Contribute to an Open Source Project on GitHub' egghead course",
-  "main": "index.js",
+  "main": "src/git index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
