@@ -1,0 +1,28 @@
+# Rules to commit
+- :art: Improving structure / format of the code.
+- :ambulance: Critical hotfix.
+- :apple: Fixing something on macOS.
+- :arrow_down: Downgrading dependencies.
+- :arrow_up: Upgrading dependencies.
+- :bookmark: Releasing / Version tags.
+- :bug: Fixing a bug.
+- :checkered_flag: Fixing something on Windows.
+- :construction: Work in progress.
+- :construction_worker: Adding CI build system.
+- :fire: Removing code or files.
+- :green_heart: Fixing CI Build.
+- :hammer: Heavy refactoring.
+- :heavy_plus_sign: Adding a dependency
+- :heavy_minus_sign: Removing a dependency
+- :lipstick: Updating the UI and style files.
+- :lock: Fixing security issues.
+- :memo: Writing docs.
+- :penguin: Fixing something on Linux.
+- :rocket: Deploying stuff.
+- :rotating_light: Removing linter warnings.
+- :sparkles: Introducing new features.
+- :tada: Initial commit
+- :white_check_mark: Adding tests.
+- :wrench: Changing configuration files.
+- :whale: Work about Docker
+- :zap: Improving performance.
