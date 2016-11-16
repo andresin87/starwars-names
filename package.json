@@ -1,6 +1,6 @@
 {
   "name": "starwars-names",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "this is a repo to practice everithing learned in 'How to Contribute to an Open Source Project on GitHub' egghead course",
   "main": "src/git index.js",
   "scripts": {
